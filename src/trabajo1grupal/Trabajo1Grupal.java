@@ -16,8 +16,7 @@ public class Trabajo1Grupal {
         System.out.println("Digite Num2");
         Num2 = tech.nextInt();
         
-        
-        
+             
         
         
 
