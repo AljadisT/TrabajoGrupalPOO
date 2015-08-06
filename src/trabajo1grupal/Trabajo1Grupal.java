@@ -19,6 +19,8 @@ public class Trabajo1Grupal {
         Resta = Num1 - Num2;
         System.out.println("Resta: " + Resta);
         
+         Division= Num1/Num2;
+          System.out.println("División: "+Division);
          
         
              
