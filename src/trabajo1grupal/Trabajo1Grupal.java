@@ -21,13 +21,15 @@ public class Trabajo1Grupal {
         
          Division= Num1/Num2;
           System.out.println("División: "+Division);
+          
+          Multiplicacion = Num1 * Num2;
+            System.out.println(" Multiplicacion : "+ Multiplicacion);
+          
+          
          
         
              
-        
-        
-        
-
+              
     }
     
 }
