@@ -16,6 +16,11 @@ public class Trabajo1Grupal {
         System.out.println("Digite Num2");
         Num2 = tech.nextInt();
         
+        Resta = Num1 - Num2;
+        System.out.println("Resta: " + Resta);
+        
+         
+        
              
         
         
